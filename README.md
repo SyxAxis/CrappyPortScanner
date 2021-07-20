@@ -1,4 +1,5 @@
 # CrappyPortScanner
+A simple network port scanner written in Go.
 
 	Really ropey port scanner in Go ( POC!! )
 	1 - This just fires up loads of noisy threads, an IDS will see this coming a mile off!
